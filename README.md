@@ -1,3 +1,3 @@
 #Fyrsta Git verkefnið mitt
 ég gerði þessa breytingu
-hér
+geri hérna aðra breytingu
