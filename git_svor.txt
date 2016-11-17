@@ -12,5 +12,5 @@ git add
 	git log
 	git status
 	git diff
-	git checkout
+	git checkoutkhgvojhvojhvg
 konráð guðmundsson
